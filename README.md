@@ -127,7 +127,7 @@ Once the microservices were up, I tested the API endpoints to make sure everythi
 
 Here’s an overview of the application's architecture:
 
-![System Architecture](./public/ProjectArchitecture.png)
+![System Architecture](./main/ProjectArchitecture.png)
 
 ---
 
